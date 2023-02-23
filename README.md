@@ -9,3 +9,4 @@ Posted on The Offical Psych Engine Discord Server
 - Friday Night Bloxxin' HUD (V1)
 - GF StrumLine (Latest ver)
 - UnderHUD (Undertale HUD)
+- Minecraft HUD
