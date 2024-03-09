@@ -1,12 +1,8 @@
 # n_bonnie2's FNF Psych Engine Lua Scripts 
 
 Archive for my psych engine Lua Scripts that I
-Posted on The Offical Psych Engine Discord Server
+Posted on The Offical Psych Engine Discord/Have not even posted at all
 
-# INCLUDES:
-- Triple Trouble Ring Recreated in Lua (OUTDATED)
-- Funky Friday HUD (V1 - V1.1)
-- Friday Night Bloxxin' HUD (V1)
-- GF StrumLine (Latest ver)
-- UnderHUD (Undertale HUD)
-- Minecraft HUD (OUTDATED)
+if you have came from crafters demise, say hi :)
+
+i am no longer a big part of the fnf community die to lack of interest
