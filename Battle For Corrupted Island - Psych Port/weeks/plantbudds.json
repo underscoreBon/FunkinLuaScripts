@@ -1,0 +1,68 @@
+{
+	"storyName": "Plant Buddies",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Snakes",
+			"flowerpibby",
+			[
+				140,
+				100,
+				100
+			]
+		],
+		[
+			"Vines",
+			"flowerpibby",
+			[
+				140,
+				100,
+				100
+			]
+		],
+		[
+			"For Petal's Sake",
+			"flowerpibby",
+			[
+				140,
+				100,
+				100
+			]
+		],
+		[
+			"Double Crossed",
+			"leafypibby",
+			[
+				0,
+				53,
+				0
+			]
+		],
+		[
+			"Cake At Mistake",
+			"leafypibby",
+			[
+				0,
+				53,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"plantbuddies",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Plant Buddies"
+}

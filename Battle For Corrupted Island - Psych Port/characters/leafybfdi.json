@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "leafybfdi idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "leafybfdi singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "leafybfdi singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "leafybfdi singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leafybfdi singLEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfdileafy/spritesheet",
+	"position": [
+		-500,
+		10
+	],
+	"healthicon": "leafypibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		205,
+		2
+	],
+	"camera_position": [
+		120,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

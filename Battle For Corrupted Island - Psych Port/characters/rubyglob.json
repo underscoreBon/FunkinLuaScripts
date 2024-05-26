@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rubyglob singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rubyglob singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rubyglob singRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rubyglob singLEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rubyglob idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rubyglob/spritesheet",
+	"position": [
+		-990,
+		-40
+	],
+	"healthicon": "rubypibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

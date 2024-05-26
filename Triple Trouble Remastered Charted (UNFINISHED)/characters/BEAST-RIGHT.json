@@ -1,0 +1,189 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-46,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Beast_IDLE"
+		},
+		{
+			"offsets": [
+				69,
+				-262
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Beast_LAUGH"
+		},
+		{
+			"offsets": [
+				-30,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Beast_UP"
+		},
+		{
+			"offsets": [
+				-16,
+				-138
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Beast_DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				-137
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Beast_LEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				333,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Beast_RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Beast",
+	"position": [
+		700,
+		-240
+	],
+	"healthicon": "BEAST",
+	"flip_x": true,
+	"healthbar_colors": [
+		163,
+		75,
+		255
+	],
+	"camera_position": [
+		-340,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

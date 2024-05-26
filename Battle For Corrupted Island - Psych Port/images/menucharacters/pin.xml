@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pin.png"><SubTexture name="pin pin0000" x="0" y="0" width="361" height="350" frameX="-17" frameY="0" frameWidth="1024" frameHeight="623" />
+</TextureAtlas>

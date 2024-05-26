@@ -1,0 +1,7 @@
+{
+	"name": "BF Fights Mod!!! (No HP Drain)",
+	"description": "Modpack Version Of the BF Fights Script! \n Now With No Health Drain!\n(By: n_bonnie2) (This Runs On ALL Mods/Songs)",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}

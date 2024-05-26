@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfdiglitch.png"><SubTexture name="bfdiglitch bfdiglitched0000" x="1256" y="1515" width="1256" height="458" frameX="0" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0001" x="0" y="2003" width="1270" height="474" frameX="0" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0002" x="0" y="1515" width="1256" height="488" frameX="0" frameY="-35" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0003" x="0" y="1515" width="1256" height="488" frameX="0" frameY="-35" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0004" x="1257" y="1010" width="1256" height="502" frameX="0" frameY="-23" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0005" x="1257" y="1010" width="1256" height="502" frameX="0" frameY="-23" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0006" x="0" y="0" width="1256" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0007" x="0" y="0" width="1256" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0008" x="0" y="0" width="1256" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0009" x="0" y="0" width="1256" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0010" x="1256" y="0" width="1262" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0011" x="0" y="505" width="1260" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0012" x="1260" y="505" width="1254" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0013" x="1260" y="505" width="1254" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0014" x="0" y="1010" width="1257" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0015" x="0" y="1010" width="1257" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0016" x="0" y="1010" width="1257" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0017" x="0" y="1010" width="1257" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0018" x="0" y="1010" width="1257" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfdiglitch bfdiglitched0019" x="0" y="1010" width="1257" height="505" frameX="0" frameY="-28" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="firey.png"><SubTexture name="firey idle0000" x="0" y="2022" width="513" height="637" frameX="-329" frameY="-72" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey idle0001" x="2547" y="1294" width="522" height="645" frameX="-328" frameY="-63" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey idle0002" x="2547" y="1294" width="522" height="645" frameX="-328" frameY="-63" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey idle0003" x="2020" y="0" width="527" height="661" frameX="-328" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey idle0004" x="2020" y="0" width="527" height="661" frameX="-328" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey idle0005" x="2020" y="661" width="518" height="660" frameX="-329" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey idle0006" x="2020" y="661" width="518" height="660" frameX="-329" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey idle0007" x="2020" y="661" width="518" height="660" frameX="-329" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singRIGHT0000" x="1277" y="1361" width="658" height="658" frameX="-283" frameY="-52" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singRIGHT0001" x="0" y="1361" width="667" height="661" frameX="-274" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singRIGHT0002" x="0" y="1361" width="667" height="661" frameX="-274" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singRIGHT0003" x="606" y="695" width="666" height="665" frameX="-274" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singRIGHT0004" x="606" y="695" width="666" height="665" frameX="-274" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singLEFT0000" x="0" y="695" width="606" height="666" frameX="-203" frameY="-44" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singLEFT0001" x="1272" y="695" width="612" height="664" frameX="-204" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singLEFT0002" x="1272" y="695" width="612" height="664" frameX="-204" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singLEFT0003" x="667" y="1361" width="610" height="661" frameX="-204" frameY="-51" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singLEFT0004" x="667" y="1361" width="610" height="661" frameX="-204" frameY="-51" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singDOWN0000" x="513" y="2022" width="589" height="629" frameX="-289" frameY="-84" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singDOWN0001" x="2547" y="0" width="595" height="647" frameX="-286" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singDOWN0002" x="2547" y="647" width="595" height="647" frameX="-286" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singDOWN0003" x="1935" y="1361" width="594" height="653" frameX="-286" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singDOWN0004" x="1935" y="1361" width="594" height="653" frameX="-286" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singUP0000" x="0" y="0" width="637" height="695" frameX="-323" frameY="-10" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singUP0001" x="637" y="0" width="690" height="682" frameX="-297" frameY="-24" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singUP0002" x="637" y="0" width="690" height="682" frameX="-297" frameY="-24" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singUP0003" x="1327" y="0" width="693" height="676" frameX="-293" frameY="-30" frameWidth="1280" frameHeight="720" />
+<SubTexture name="firey singUP0004" x="1327" y="0" width="693" height="676" frameX="-293" frameY="-30" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

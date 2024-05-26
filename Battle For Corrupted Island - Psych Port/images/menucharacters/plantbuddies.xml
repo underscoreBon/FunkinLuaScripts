@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="plantbuddies.png"><SubTexture name="plantbuddies plantbuddies0000" x="0" y="0" width="454" height="352" frameX="0" frameY="-7" frameWidth="1024" frameHeight="623" />
+</TextureAtlas>

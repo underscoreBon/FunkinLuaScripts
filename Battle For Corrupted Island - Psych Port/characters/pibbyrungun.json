@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pibbyrungun idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pibbyrungun singLEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "pibbyrungun singDOWN"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "pibbyrungun singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pibbyrungun singUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbyrungun/spritesheet",
+	"position": [
+		-230,
+		150
+	],
+	"healthicon": "pibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		116,
+		233,
+		255
+	],
+	"camera_position": [
+		70,
+		30
+	],
+	"sing_duration": 2.50000000000001,
+	"scale": 1
+}

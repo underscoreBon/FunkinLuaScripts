@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tacofly.png"><SubTexture name="tacofly idle0000" x="1193" y="1567" width="618" height="479" frameX="-297" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly idle0001" x="0" y="2049" width="630" height="472" frameX="-294" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly idle0002" x="2271" y="0" width="607" height="477" frameX="-304" frameY="-138" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly idle0003" x="630" y="2049" width="640" height="472" frameX="-305" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singRIGHT0000" x="1717" y="0" width="554" height="485" frameX="-493" frameY="-61" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singRIGHT0001" x="2271" y="477" width="575" height="477" frameX="-464" frameY="-70" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singRIGHT0002" x="0" y="1070" width="581" height="497" frameX="-487" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singLEFT0000" x="2271" y="954" width="599" height="477" frameX="-151" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singLEFT0001" x="1115" y="0" width="602" height="508" frameX="-160" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singLEFT0002" x="0" y="549" width="607" height="521" frameX="-152" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singUP0000" x="1115" y="508" width="570" height="505" frameX="-278" frameY="-18" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singUP0001" x="0" y="1567" width="596" height="482" frameX="-264" frameY="-13" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singUP0002" x="596" y="1567" width="597" height="481" frameX="-266" frameY="-10" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singDOWN0000" x="0" y="0" width="542" height="549" frameX="-335" frameY="-171" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singDOWN0001" x="542" y="0" width="573" height="538" frameX="-341" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacofly singDOWN0002" x="581" y="1070" width="593" height="490" frameX="-343" frameY="-211" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

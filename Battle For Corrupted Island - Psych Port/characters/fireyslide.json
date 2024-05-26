@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fireyidle idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fireyidle singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fireyidle singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fireyidle singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fireyidle singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fireyslide/spritesheet",
+	"position": [
+		-520,
+		140
+	],
+	"healthicon": "fireypibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		165,
+		31
+	],
+	"camera_position": [
+		220,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

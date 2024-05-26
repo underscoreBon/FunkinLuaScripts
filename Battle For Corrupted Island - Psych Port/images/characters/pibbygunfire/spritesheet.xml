@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibbyfire.png"><SubTexture name="pibbyfire singLEFT0000" x="803" y="889" width="451" height="404" frameX="-82" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire singRIGHT0000" x="386" y="889" width="417" height="412" frameX="-120" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire singRIGHT0001" x="930" y="420" width="320" height="406" frameX="-122" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire singRIGHT0002" x="930" y="420" width="320" height="406" frameX="-122" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire singLEFT0001" x="1309" y="795" width="377" height="390" frameX="-84" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire singLEFT0002" x="1309" y="795" width="377" height="390" frameX="-84" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire singUP0000" x="0" y="0" width="534" height="449" frameX="-75" frameY="-15" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire singUP0001" x="534" y="0" width="396" height="440" frameX="-73" frameY="-8" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire singUP0002" x="534" y="0" width="396" height="440" frameX="-73" frameY="-8" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire singDOWN0000" x="1309" y="0" width="485" height="404" frameX="-49" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire singDOWN0001" x="0" y="889" width="386" height="416" frameX="-56" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire singDOWN0002" x="0" y="889" width="386" height="416" frameX="-56" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire idle0000" x="1309" y="404" width="383" height="391" frameX="-110" frameY="-61" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire idle0001" x="930" y="0" width="379" height="420" frameX="-114" frameY="-43" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire idle0002" x="930" y="0" width="379" height="420" frameX="-114" frameY="-43" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire idle0003" x="0" y="449" width="379" height="440" frameX="-113" frameY="-26" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire idle0004" x="0" y="449" width="379" height="440" frameX="-113" frameY="-26" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire idle0005" x="379" y="449" width="380" height="434" frameX="-112" frameY="-24" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire idle0006" x="379" y="449" width="380" height="434" frameX="-112" frameY="-24" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire idle0007" x="379" y="449" width="380" height="434" frameX="-112" frameY="-24" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyfire idle0008" x="379" y="449" width="380" height="434" frameX="-112" frameY="-24" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

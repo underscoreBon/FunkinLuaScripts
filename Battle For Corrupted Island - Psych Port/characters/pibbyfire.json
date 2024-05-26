@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pibbyfire idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pibbyfire singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pibbyfire singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pibbyfire singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pibbyfire singLEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbygunfire/spritesheet",
+	"position": [
+		-600,
+		50
+	],
+	"healthicon": "pibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		233,
+		255
+	],
+	"camera_position": [
+		-180,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

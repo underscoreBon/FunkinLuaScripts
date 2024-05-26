@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfbotherglitch.png"><SubTexture name="bfbotherglitch bfbotherglitch0000" x="0" y="635" width="1191" height="288" frameX="0" frameY="-410" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbotherglitch bfbotherglitch0001" x="1232" y="328" width="1215" height="296" frameX="0" frameY="-408" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbotherglitch bfbotherglitch0002" x="0" y="0" width="1230" height="328" frameX="0" frameY="-369" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbotherglitch bfbotherglitch0003" x="1230" y="0" width="1245" height="322" frameX="0" frameY="-380" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbotherglitch bfbotherglitch0004" x="0" y="328" width="1232" height="307" frameX="0" frameY="-397" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfbcorrupted.png"><SubTexture name="bfbcorrupted bfbcorrupted0000" x="1275" y="582" width="1274" height="580" frameX="0" frameY="-8" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbcorrupted bfbcorrupted0001" x="0" y="0" width="1275" height="587" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbcorrupted bfbcorrupted0002" x="1275" y="0" width="1275" height="582" frameX="0" frameY="-6" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbcorrupted bfbcorrupted0003" x="1275" y="0" width="1275" height="582" frameX="0" frameY="-6" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbcorrupted bfbcorrupted0004" x="0" y="587" width="1275" height="587" frameX="0" frameY="-1" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbcorrupted bfbcorrupted0005" x="0" y="587" width="1275" height="587" frameX="0" frameY="-1" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

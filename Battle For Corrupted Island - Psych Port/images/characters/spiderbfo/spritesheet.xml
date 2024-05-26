@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spiderbf.png"><SubTexture name="spiderbf idle0000" x="0" y="0" width="817" height="720" frameX="-463" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf idle0001" x="817" y="0" width="795" height="720" frameX="-485" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf idle0002" x="0" y="720" width="796" height="720" frameX="-484" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf idle0003" x="796" y="720" width="786" height="720" frameX="-494" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf idle0004" x="1612" y="0" width="786" height="720" frameX="-494" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf idle0005" x="0" y="1440" width="788" height="720" frameX="-492" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf idle0006" x="1612" y="720" width="780" height="720" frameX="-500" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf idle0007" x="788" y="1440" width="832" height="720" frameX="-448" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf idle0008" x="2398" y="0" width="832" height="720" frameX="-448" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf idle0009" x="2398" y="720" width="832" height="720" frameX="-448" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf idle0010" x="2398" y="1440" width="832" height="720" frameX="-448" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf idle0011" x="0" y="2160" width="832" height="720" frameX="-448" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singUP0000" x="0" y="2880" width="911" height="699" frameX="-369" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singUP0001" x="911" y="2880" width="920" height="699" frameX="-360" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singUP0002" x="1831" y="2880" width="888" height="699" frameX="-392" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singUP0003" x="3230" y="2152" width="802" height="699" frameX="-478" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singRIGHT0000" x="2719" y="2880" width="809" height="693" frameX="-471" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singRIGHT0001" x="4032" y="0" width="849" height="659" frameX="-431" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singRIGHT0002" x="4032" y="659" width="794" height="648" frameX="-486" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singDOWN0000" x="882" y="3579" width="882" height="603" frameX="-398" frameY="-117" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singDOWN0001" x="4032" y="1307" width="826" height="603" frameX="-454" frameY="-117" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singDOWN0002" x="0" y="3579" width="882" height="643" frameX="-398" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singDOWN0003" x="4032" y="1910" width="770" height="603" frameX="-510" frameY="-117" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singDOWN0004" x="4032" y="2513" width="770" height="603" frameX="-510" frameY="-117" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singLEFT0000" x="832" y="2160" width="882" height="720" frameX="-398" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singLEFT0001" x="1714" y="2160" width="860" height="720" frameX="-420" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singLEFT0002" x="3230" y="0" width="802" height="720" frameX="-462" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singLEFT0003" x="3230" y="720" width="718" height="716" frameX="-535" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spiderbf singLEFT0004" x="3230" y="1436" width="718" height="716" frameX="-535" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

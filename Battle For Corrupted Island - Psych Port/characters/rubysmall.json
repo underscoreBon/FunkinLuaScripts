@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rubysmall singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rubysmall singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rubysmall singRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rubysmall singLEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "rubysmall idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rubysmall/spritesheet",
+	"position": [
+		330,
+		250
+	],
+	"healthicon": "ruby",
+	"flip_x": false,
+	"healthbar_colors": [
+		236,
+		0,
+		35
+	],
+	"camera_position": [
+		-220,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

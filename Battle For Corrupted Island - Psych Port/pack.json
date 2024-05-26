@@ -1,0 +1,7 @@
+{
+	"name": "FNF - Battle For Corrupted Island (Psych Port)",
+	"description": "The Darkness corrupts the world of B.F.B... in Psych Engine\n(CONTAINS SHADERS, DISABLE IN OPTIONS) - UPDATED",
+	"restart":true,
+	"runsGlobally":false,
+	"color": [0, 0, 0]
+}

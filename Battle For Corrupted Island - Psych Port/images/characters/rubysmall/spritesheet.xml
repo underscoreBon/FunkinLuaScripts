@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rubysmall.png"><SubTexture name="rubysmall idle0000" x="530" y="1174" width="540" height="554" frameX="-484" frameY="-166" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall idle0001" x="0" y="1174" width="530" height="565" frameX="-490" frameY="-155" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall idle0002" x="0" y="1174" width="530" height="565" frameX="-490" frameY="-155" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall idle0003" x="1663" y="575" width="528" height="574" frameX="-487" frameY="-146" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall idle0004" x="1663" y="575" width="528" height="574" frameX="-487" frameY="-146" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall idle0005" x="506" y="594" width="531" height="578" frameX="-484" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall idle0006" x="506" y="594" width="531" height="578" frameX="-484" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall idle0007" x="506" y="594" width="531" height="578" frameX="-484" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall idle0008" x="506" y="594" width="531" height="578" frameX="-484" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall idle0009" x="506" y="594" width="531" height="578" frameX="-484" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singUP0000" x="0" y="0" width="580" height="594" frameX="-431" frameY="-126" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singUP0001" x="580" y="0" width="578" height="589" frameX="-433" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singUP0002" x="580" y="0" width="578" height="589" frameX="-433" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singRIGHT0000" x="1158" y="0" width="505" height="581" frameX="-545" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singRIGHT0001" x="0" y="594" width="506" height="580" frameX="-537" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singRIGHT0002" x="0" y="594" width="506" height="580" frameX="-537" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singLEFT0000" x="1663" y="0" width="529" height="575" frameX="-414" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singLEFT0001" x="1037" y="594" width="528" height="576" frameX="-415" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singLEFT0002" x="1037" y="594" width="528" height="576" frameX="-415" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singDOWN0000" x="1607" y="1174" width="551" height="544" frameX="-482" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singDOWN0001" x="1070" y="1174" width="537" height="552" frameX="-489" frameY="-168" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubysmall singDOWN0002" x="1070" y="1174" width="537" height="552" frameX="-489" frameY="-168" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

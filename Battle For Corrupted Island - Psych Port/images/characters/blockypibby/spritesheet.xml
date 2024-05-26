@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blockypibby.png"><SubTexture name="blockypibby idle0000" x="721" y="1685" width="678" height="457" frameX="-351" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby idle0001" x="2056" y="0" width="692" height="476" frameX="-314" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby idle0002" x="507" y="1178" width="715" height="480" frameX="-318" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby idle0003" x="1222" y="1178" width="714" height="477" frameX="-319" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby idle0004" x="0" y="1685" width="721" height="474" frameX="-308" frameY="-163" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singRIGHT0000" x="2056" y="476" width="590" height="472" frameX="-382" frameY="-193" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singRIGHT0001" x="1399" y="1685" width="598" height="452" frameX="-371" frameY="-190" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singRIGHT0002" x="2056" y="948" width="609" height="458" frameX="-358" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singLEFT0000" x="1556" y="0" width="500" height="514" frameX="-233" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singLEFT0001" x="0" y="1178" width="507" height="507" frameX="-259" frameY="-147" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singLEFT0002" x="1556" y="514" width="493" height="511" frameX="-270" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singUP0000" x="1019" y="0" width="537" height="640" frameX="-326" frameY="-25" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singUP0001" x="490" y="0" width="529" height="645" frameX="-319" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singUP0002" x="0" y="0" width="490" height="650" frameX="-349" frameY="-1" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singDOWN0000" x="1997" y="1685" width="697" height="430" frameX="-245" frameY="-245" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singDOWN0001" x="0" y="650" width="703" height="528" frameX="-246" frameY="-133" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blockypibby singDOWN0002" x="703" y="650" width="667" height="527" frameX="-279" frameY="-119" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

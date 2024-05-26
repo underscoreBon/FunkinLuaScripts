@@ -3,10 +3,10 @@
 Archive for my psych engine Lua Scripts that I
 Posted on The Offical Psych Engine Discord/Have not even posted at all
 
+Some Modpacks do not work anymore.
+
 if you have came from crafters demise, say hi :)
 
-i am no longer a big part of the fnf community die to lack of interest
+i am no longer a big part of the fnf community die to lack of interest.
 
-
-
-ill upload these files one day.
+so uh... hi? bye? see ya?

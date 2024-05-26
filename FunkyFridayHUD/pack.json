@@ -1,0 +1,7 @@
+{
+	"name": "Funky Friday HUD",
+	"description": "FUCK gamefam. FUCK roblox moderation.",
+	"restart":false,
+	"runsGlobally":true,
+	"color": [100, 0, 100]
+}

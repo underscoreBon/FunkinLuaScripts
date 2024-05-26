@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfbcharacters.png"><SubTexture name="bfbcharacters bfbchar0000" x="1280" y="1087" width="1280" height="540" frameX="0" frameY="-10" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbcharacters bfbchar0001" x="0" y="544" width="1280" height="543" frameX="0" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbcharacters bfbchar0002" x="0" y="1628" width="1280" height="540" frameX="0" frameY="-10" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbcharacters bfbchar0003" x="0" y="1087" width="1280" height="541" frameX="0" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbcharacters bfbchar0004" x="1280" y="0" width="1280" height="542" frameX="0" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbcharacters bfbchar0005" x="1280" y="542" width="1280" height="542" frameX="0" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbcharacters bfbchar0006" x="0" y="0" width="1280" height="544" frameX="0" frameY="-6" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

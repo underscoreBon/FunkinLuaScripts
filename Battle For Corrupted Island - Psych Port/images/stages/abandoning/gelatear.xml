@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gelatear.png"><SubTexture name="gelatear gelatear0000" x="0" y="0" width="1149" height="628" frameX="-117" frameY="-16" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelatear gelatear0001" x="0" y="1230" width="1171" height="585" frameX="-109" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelatear gelatear0002" x="0" y="628" width="1226" height="602" frameX="-48" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelatear gelatear0003" x="1149" y="0" width="1153" height="627" frameX="-113" frameY="-18" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelatear gelatear0004" x="1149" y="0" width="1153" height="627" frameX="-113" frameY="-18" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flowerpibby.png"><SubTexture name="flowerpibby idle0000" x="0" y="1961" width="824" height="550" frameX="-245" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby idle0001" x="733" y="2511" width="801" height="489" frameX="-265" frameY="-213" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby idle0002" x="1584" y="1961" width="722" height="524" frameX="-336" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby idle0003" x="2545" y="0" width="730" height="524" frameX="-333" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby idle0004" x="0" y="2511" width="733" height="521" frameX="-326" frameY="-189" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby idle0005" x="824" y="1961" width="760" height="527" frameX="-302" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby idle0006" x="794" y="1387" width="854" height="570" frameX="-209" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby singRIGHT0000" x="1648" y="1387" width="892" height="568" frameX="-375" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby singRIGHT0001" x="1675" y="0" width="870" height="583" frameX="-389" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby singLEFT0000" x="1675" y="583" width="780" height="574" frameX="-99" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby singLEFT0001" x="0" y="1387" width="794" height="574" frameX="-80" frameY="-122" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby singUP0000" x="0" y="705" width="838" height="682" frameX="-198" frameY="-18" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby singUP0001" x="826" y="0" width="849" height="688" frameX="-205" frameY="-11" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby singDOWN0000" x="838" y="705" width="833" height="662" frameX="-261" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerpibby singDOWN0001" x="0" y="0" width="826" height="705" frameX="-284" frameY="-4" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

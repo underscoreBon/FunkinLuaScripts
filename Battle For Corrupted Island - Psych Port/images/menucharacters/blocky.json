@@ -1,0 +1,11 @@
+{
+	"idle_anim": "blocky blocky",
+	"image": "blocky",
+	"position": [
+		16,
+		-35
+	],
+	"flipX": false,
+	"scale": 1.25,
+	"confirm_anim": ""
+}

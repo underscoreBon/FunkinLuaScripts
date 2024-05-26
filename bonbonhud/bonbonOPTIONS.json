@@ -1,0 +1,48 @@
+{
+
+	"info":[
+		"Since I can't put comments here, so i have to tell you Via this array!",
+		
+		"showBasicStats (true/false) - if true, it shows Hits, Best Combo, Judgements, and Health",
+		"showAdvancedStats (true/false) - if true, it shows Note Average and Notes Per Second",
+
+		"vanillaMode (true/false) - if true, the healthbar, score text, and icon bop will be a remeincent of base FNF"
+	],
+
+
+	"showBasicStats": true,
+	"showAdvancedStats": true,
+
+
+	"showNoteMsOffset": true,
+	"gameOverResults": true,
+	"underlayAlpha": 0.5,
+
+
+	"font": "vcr.ttf",
+	"pixelFont": "vcr.ttf",
+
+
+	"ratingCustomColor": false,
+	"scoreTextCustomColor": false,
+	"forceCompatMode": false,
+
+	"vanillaMode": false,
+
+	"sickColor": "00ffff",
+	"goodColor": "00ff00",
+	"badColor": "ff0026",
+	"shitColor": "9c9c9c",
+	"timeBarColors": [
+		"ffffff", 
+		"000000",
+
+		"00ff33", 
+		"8c8c8c"
+	],
+
+
+	"timeBarScaleX": 1,
+	"healthBarScaleX": 1
+
+}

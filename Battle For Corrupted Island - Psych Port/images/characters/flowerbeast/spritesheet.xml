@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flowerbeast.png"><SubTexture name="flowerbeast idle0000" x="2977" y="0" width="874" height="625" frameX="-151" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast idle0001" x="1921" y="2074" width="862" height="641" frameX="-158" frameY="-79" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast idle0002" x="1083" y="2074" width="838" height="651" frameX="-161" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast idle0003" x="2151" y="1332" width="821" height="654" frameX="-163" frameY="-66" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast idle0004" x="2151" y="1332" width="821" height="654" frameX="-163" frameY="-66" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast idle0005" x="2151" y="674" width="819" height="658" frameX="-158" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast idle0006" x="2151" y="674" width="819" height="658" frameX="-158" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singLEFT0000" x="2151" y="0" width="826" height="674" frameX="0" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singLEFT0001" x="1078" y="718" width="862" height="677" frameX="-5" frameY="-43" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singLEFT0002" x="1076" y="1396" width="865" height="676" frameX="-7" frameY="-44" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singRIGHT0000" x="0" y="2074" width="1083" height="666" frameX="-187" frameY="-54" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singRIGHT0001" x="0" y="718" width="1078" height="678" frameX="-148" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singRIGHT0002" x="0" y="1396" width="1076" height="678" frameX="-142" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singDOWN0000" x="0" y="2740" width="1014" height="572" frameX="-60" frameY="-148" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singDOWN0001" x="2124" y="2740" width="1100" height="545" frameX="-11" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singDOWN0002" x="1014" y="2740" width="1110" height="553" frameX="-4" frameY="-167" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singUP0000" x="0" y="0" width="683" height="718" frameX="-182" frameY="-2" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singUP0001" x="683" y="0" width="725" height="710" frameX="-168" frameY="-10" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerbeast singUP0002" x="1408" y="0" width="743" height="708" frameX="-158" frameY="-12" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

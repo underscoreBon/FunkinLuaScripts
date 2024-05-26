@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corruptionface.png"><SubTexture name="corruptionface corruptionface0000" x="0" y="0" width="855" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0001" x="855" y="0" width="853" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0002" x="0" y="720" width="906" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0003" x="1708" y="0" width="911" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0004" x="0" y="1440" width="932" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0005" x="932" y="1440" width="935" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0006" x="2619" y="0" width="939" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0007" x="2619" y="720" width="935" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0008" x="2619" y="1440" width="921" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0009" x="0" y="2160" width="925" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0010" x="1708" y="720" width="905" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0011" x="925" y="2160" width="911" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0012" x="1836" y="2160" width="886" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0013" x="3558" y="0" width="913" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0014" x="0" y="2880" width="915" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0015" x="915" y="2880" width="919" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0016" x="1834" y="2880" width="924" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0017" x="2758" y="2880" width="938" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0018" x="0" y="3600" width="914" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0019" x="3558" y="720" width="894" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptionface corruptionface0020" x="3558" y="1440" width="860" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

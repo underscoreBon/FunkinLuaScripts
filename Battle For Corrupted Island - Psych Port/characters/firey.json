@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "firey singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "firey singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "firey singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "firey singRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "firey idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/firey/spritesheet",
+	"position": [
+		-420,
+		80
+	],
+	"healthicon": "firey",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		174,
+		2
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

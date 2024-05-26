@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fireafy.png"><SubTexture name="fireafy idle0000" x="3600" y="1396" width="1152" height="691" frameX="-128" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy idle0001" x="3600" y="2087" width="1171" height="691" frameX="-109" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy idle0002" x="3600" y="2778" width="1173" height="691" frameX="-107" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy idle0003" x="3600" y="0" width="1178" height="698" frameX="-102" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy idle0004" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy idle0005" x="1280" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy idle0006" x="0" y="720" width="1259" height="720" frameX="-21" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singLEFT0000" x="1259" y="720" width="1227" height="720" frameX="-53" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singLEFT0001" x="0" y="1440" width="1200" height="720" frameX="-80" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singLEFT0002" x="1200" y="1440" width="1212" height="720" frameX="-68" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singRIGHT0000" x="2383" y="2160" width="1177" height="699" frameX="-103" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singRIGHT0001" x="0" y="2160" width="1174" height="704" frameX="-106" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singRIGHT0002" x="0" y="2864" width="1185" height="699" frameX="-95" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singDOWN0000" x="2560" y="0" width="1040" height="712" frameX="-122" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singDOWN0001" x="2560" y="712" width="1032" height="699" frameX="-126" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singDOWN0002" x="3600" y="698" width="1017" height="698" frameX="-127" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singUP0000" x="1174" y="2160" width="1209" height="703" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singUP0001" x="1185" y="2864" width="1191" height="699" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireafy singUP0002" x="2376" y="2864" width="1190" height="699" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

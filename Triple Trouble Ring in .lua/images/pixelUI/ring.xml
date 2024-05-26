@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_assets.png">
+<SubTexture name="arrowSPACE0000" x="0" y="0" width="17" height="17" />
+<SubTexture name="space confirm0000" x="0" y="51" width="17" height="17" />
+<SubTexture name="space confirm0001" x="0" y="68" width="17" height="17" />
+<SubTexture name="space press0000" x="0" y="17" width="17" height="17" />
+<SubTexture name="space press0001" x="0" y="34" width="17" height="17" />
+</TextureAtlas>

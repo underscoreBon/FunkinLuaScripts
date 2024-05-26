@@ -1,0 +1,7 @@
+Boyfriend::bf
+Boyfriend (Reanimated)::zerobf-charselect
+Boyfriend (Christmas)::bf-christmas
+Boyfriend (Pixel)::bf-pixel-player
+Boyfriend & Girlfriend::bf-holding-gf
+Pico::pico-player
+Tankman::tankman-player

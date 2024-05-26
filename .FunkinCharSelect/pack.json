@@ -1,0 +1,7 @@
+{
+	"name": "Funkin' Character Select",
+	"description": "Character Select but Better + VERY Easy Character Support \n(ONLY SHOWS IN FREEPLAY!)",
+	"restart":false,
+	"runsGlobally":true,
+	"color": [0, 100, 0]
+}

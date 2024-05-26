@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bubblesing singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bubblesing singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bubblesing singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bubblesing singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bubblesing idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bubble/spritesheet",
+	"position": [
+		-420,
+		130
+	],
+	"healthicon": "bubble",
+	"flip_x": true,
+	"healthbar_colors": [
+		106,
+		240,
+		255
+	],
+	"camera_position": [
+		80,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

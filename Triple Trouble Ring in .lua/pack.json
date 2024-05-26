@@ -1,0 +1,7 @@
+{
+	"name": "Triple Trouble Ring In LUA",
+	"description": "The one thing that noone wanted to do...",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Minecraft HUD for FNF Psych",
+	"description": "A User Interface Mod for Friday Night Funkin': Psych Engine that adds a HUD that replicates from the game: Minecraft.\n[Minecraft is owned by Mojang Studios]",
+	"restart":false,
+	"runsGlobally":true,
+	"color": [0, 100, 0]
+}

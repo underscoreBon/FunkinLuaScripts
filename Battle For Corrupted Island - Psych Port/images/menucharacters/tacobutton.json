@@ -1,0 +1,11 @@
+{
+	"idle_anim": "tacobutton tacobutton",
+	"image": "tacobutton",
+	"position": [
+		596,
+		245
+	],
+	"flipX": false,
+	"scale": 0.7,
+	"confirm_anim": ""
+}

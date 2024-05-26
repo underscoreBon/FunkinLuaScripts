@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bubblesing.png"><SubTexture name="bubblesing idle0000" x="0" y="1866" width="548" height="584" frameX="-373" frameY="-96" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing idle0001" x="0" y="1866" width="548" height="584" frameX="-373" frameY="-96" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing idle0002" x="1923" y="0" width="538" height="593" frameX="-378" frameY="-87" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing idle0003" x="1923" y="0" width="538" height="593" frameX="-378" frameY="-87" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing idle0004" x="1397" y="0" width="526" height="604" frameX="-384" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing idle0005" x="1397" y="0" width="526" height="604" frameX="-384" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing idle0006" x="0" y="1263" width="522" height="603" frameX="-386" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing idle0007" x="0" y="1263" width="522" height="603" frameX="-386" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing idle0008" x="0" y="1263" width="522" height="603" frameX="-386" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing idle0009" x="0" y="1263" width="522" height="603" frameX="-386" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singRIGHT0000" x="1397" y="604" width="524" height="604" frameX="-441" frameY="-79" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singRIGHT0001" x="0" y="655" width="524" height="608" frameX="-435" frameY="-75" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singRIGHT0002" x="0" y="655" width="524" height="608" frameX="-435" frameY="-75" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singLEFT0000" x="522" y="1263" width="565" height="603" frameX="-313" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singLEFT0001" x="524" y="655" width="572" height="608" frameX="-310" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singLEFT0002" x="524" y="655" width="572" height="608" frameX="-310" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singUP0000" x="0" y="0" width="696" height="655" frameX="-264" frameY="-32" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singUP0001" x="696" y="0" width="701" height="650" frameX="-261" frameY="-38" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singUP0002" x="696" y="0" width="701" height="650" frameX="-261" frameY="-38" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singDOWN0000" x="1923" y="593" width="524" height="587" frameX="-366" frameY="-97" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singDOWN0001" x="1087" y="1263" width="524" height="594" frameX="-366" frameY="-90" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bubblesing singDOWN0002" x="1087" y="1263" width="524" height="594" frameX="-366" frameY="-90" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

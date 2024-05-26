@@ -1,0 +1,218 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sonic idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sonic left",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sonic down",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sonic up",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				-29,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "Sonic right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-6
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Sonic left ALT",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-18
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Sonic down ALT",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-16
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Sonic up ALT",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				-29,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "Sonic right ALT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic_desperate",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "icon-sonic-getout",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		66,
+		137
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

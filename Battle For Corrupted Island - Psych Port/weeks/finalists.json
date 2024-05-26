@@ -1,0 +1,41 @@
+{
+	"storyName": "Chapter Complete",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "bfdi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Finalists",
+			"fireafy",
+			[
+				80,
+				80,
+				0
+			]
+		],
+		[
+			"Ending Seasons",
+			"ruby",
+			[
+				140,
+				0,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"fl",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Finals"
+}

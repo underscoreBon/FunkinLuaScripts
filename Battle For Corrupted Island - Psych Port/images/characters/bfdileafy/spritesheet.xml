@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="leafybfdi.png"><SubTexture name="leafybfdi singLEFT0000" x="1363" y="1355" width="450" height="587" frameX="-343" frameY="-115" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singLEFT0001" x="430" y="1355" width="467" height="600" frameX="-380" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singLEFT0002" x="0" y="1355" width="430" height="602" frameX="-378" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singLEFT0003" x="1684" y="0" width="425" height="605" frameX="-383" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singLEFT0004" x="1684" y="605" width="409" height="605" frameX="-385" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singLEFT0005" x="904" y="704" width="423" height="606" frameX="-379" frameY="-112" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singRIGHT0000" x="397" y="704" width="507" height="608" frameX="-369" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singRIGHT0001" x="897" y="1355" width="466" height="588" frameX="-371" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singRIGHT0002" x="0" y="1957" width="471" height="581" frameX="-361" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singRIGHT0003" x="2109" y="0" width="443" height="584" frameX="-391" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singRIGHT0004" x="2109" y="584" width="437" height="582" frameX="-392" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singDOWN0000" x="0" y="2538" width="582" height="478" frameX="-384" frameY="-239" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singDOWN0001" x="3007" y="0" width="473" height="528" frameX="-415" frameY="-190" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singDOWN0002" x="2552" y="0" width="455" height="543" frameX="-407" frameY="-177" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singDOWN0003" x="2552" y="543" width="432" height="540" frameX="-414" frameY="-177" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singDOWN0004" x="1930" y="1957" width="425" height="550" frameX="-422" frameY="-167" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singUP0000" x="0" y="0" width="492" height="704" frameX="-413" frameY="-13" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singUP0001" x="492" y="0" width="399" height="672" frameX="-406" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singUP0002" x="891" y="0" width="393" height="660" frameX="-408" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singUP0003" x="1284" y="0" width="400" height="660" frameX="-400" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi singUP0004" x="0" y="704" width="397" height="651" frameX="-402" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi idle0000" x="1540" y="1957" width="390" height="556" frameX="-443" frameY="-158" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi idle0001" x="1177" y="1957" width="363" height="570" frameX="-456" frameY="-150" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi idle0002" x="1327" y="704" width="351" height="577" frameX="-459" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi idle0003" x="821" y="1957" width="356" height="572" frameX="-458" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi idle0004" x="471" y="1957" width="350" height="573" frameX="-454" frameY="-141" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafybfdi idle0005" x="2109" y="1166" width="326" height="580" frameX="-467" frameY="-134" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

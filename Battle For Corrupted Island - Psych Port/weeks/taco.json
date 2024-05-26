@@ -1,0 +1,50 @@
+{
+	"storyName": "You've Set a Reputation",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "platbudds",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Rotting Flesh",
+			"tacopibby",
+			[
+				140,
+				120,
+				100
+			]
+		],
+		[
+			"Fallen Leader",
+			"tacopibby",
+			[
+				140,
+				120,
+				100
+			]
+		],
+		[
+			"Abandoning Us",
+			"tacopibby",
+			[
+				140,
+				120,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"tacobutton",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Taco?"
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Fresh BF Mix",
+	"description": "Charted...",
+	"restart":false,
+	"runsGlobally":true,
+	"color": [100, 0, 100]
+}

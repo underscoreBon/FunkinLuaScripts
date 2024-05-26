@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibbyrungun.png"><SubTexture name="pibbyrungun idle0000" x="2394" y="1511" width="700" height="500" frameX="-272" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun idle0001" x="0" y="598" width="699" height="520" frameX="-272" frameY="-109" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun idle0002" x="2394" y="0" width="715" height="507" frameX="-272" frameY="-143" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun idle0003" x="3109" y="0" width="708" height="496" frameX="-272" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun idle0004" x="2394" y="507" width="705" height="502" frameX="-271" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun idle0005" x="0" y="1633" width="706" height="511" frameX="-272" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun idle0006" x="3109" y="496" width="705" height="486" frameX="-272" frameY="-149" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun idle0007" x="3817" y="944" width="698" height="468" frameX="-272" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singLEFT0000" x="828" y="0" width="864" height="583" frameX="-18" frameY="-36" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singLEFT0001" x="1692" y="0" width="702" height="512" frameX="-183" frameY="-117" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singLEFT0002" x="1422" y="1633" width="732" height="508" frameX="-181" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singLEFT0003" x="2247" y="2651" width="733" height="493" frameX="-174" frameY="-147" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singLEFT0004" x="717" y="2144" width="731" height="505" frameX="-173" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singLEFT0005" x="0" y="1118" width="733" height="515" frameX="-174" frameY="-125" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singLEFT0006" x="0" y="2651" width="735" height="496" frameX="-173" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singLEFT0007" x="3817" y="474" width="734" height="470" frameX="-172" frameY="-151" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singRIGHT0000" x="0" y="3147" width="1016" height="491" frameX="-18" frameY="-128" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singRIGHT0001" x="1448" y="2144" width="799" height="505" frameX="-237" frameY="-124" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singRIGHT0002" x="2980" y="2651" width="798" height="490" frameX="-226" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singRIGHT0003" x="1448" y="2651" width="799" height="494" frameX="-225" frameY="-146" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singRIGHT0004" x="2247" y="2144" width="801" height="504" frameX="-225" frameY="-130" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singRIGHT0005" x="733" y="1118" width="801" height="515" frameX="-228" frameY="-125" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singRIGHT0006" x="1738" y="3147" width="802" height="485" frameX="-229" frameY="-150" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singRIGHT0007" x="2540" y="3147" width="806" height="481" frameX="-227" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singUP0000" x="0" y="0" width="828" height="598" frameX="-144" frameY="-21" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singUP0001" x="699" y="598" width="683" height="520" frameX="-288" frameY="-109" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singUP0002" x="0" y="2144" width="717" height="507" frameX="-270" frameY="-143" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singUP0003" x="735" y="2651" width="713" height="496" frameX="-267" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singUP0004" x="2394" y="1009" width="713" height="502" frameX="-263" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singUP0005" x="706" y="1633" width="716" height="511" frameX="-262" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singUP0006" x="1016" y="3147" width="722" height="486" frameX="-255" frameY="-149" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singUP0007" x="3817" y="1412" width="702" height="468" frameX="-268" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singDOWN0000" x="3817" y="0" width="938" height="474" frameX="-32" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singDOWN0001" x="3109" y="982" width="665" height="484" frameX="-301" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singDOWN0002" x="3109" y="1949" width="684" height="478" frameX="-302" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singDOWN0003" x="3817" y="2348" width="678" height="465" frameX="-302" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singDOWN0004" x="3109" y="1466" width="675" height="483" frameX="-302" frameY="-151" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singDOWN0005" x="1692" y="1010" width="677" height="497" frameX="-300" frameY="-143" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singDOWN0006" x="1692" y="512" width="675" height="498" frameX="-302" frameY="-137" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyrungun singDOWN0007" x="3817" y="1880" width="668" height="468" frameX="-302" frameY="-153" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

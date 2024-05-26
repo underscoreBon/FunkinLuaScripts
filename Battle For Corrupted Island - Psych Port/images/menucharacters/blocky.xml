@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blocky.png"><SubTexture name="blocky blocky0000" x="0" y="0" width="296" height="305" frameX="-11" frameY="-26" frameWidth="1024" frameHeight="623" />
+</TextureAtlas>

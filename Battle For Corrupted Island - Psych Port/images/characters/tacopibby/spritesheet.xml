@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tacopibby.png"><SubTexture name="tacopibby idle0000" x="588" y="1687" width="580" height="473" frameX="-445" frameY="-236" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby idle0001" x="599" y="1156" width="603" height="498" frameX="-425" frameY="-211" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby idle0002" x="0" y="1156" width="599" height="531" frameX="-443" frameY="-179" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby idle0003" x="1653" y="0" width="587" height="542" frameX="-437" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby idle0004" x="0" y="608" width="600" height="548" frameX="-427" frameY="-164" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby idle0005" x="600" y="608" width="584" height="544" frameX="-442" frameY="-168" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singDOWN0000" x="643" y="2161" width="633" height="433" frameX="-427" frameY="-276" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singDOWN0001" x="2240" y="462" width="602" height="435" frameX="-452" frameY="-271" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singDOWN0002" x="2240" y="897" width="604" height="433" frameX="-461" frameY="-274" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singLEFT0000" x="1168" y="1687" width="561" height="471" frameX="-350" frameY="-241" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singLEFT0001" x="1202" y="1156" width="564" height="475" frameX="-351" frameY="-236" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singLEFT0002" x="1653" y="542" width="561" height="480" frameX="-355" frameY="-240" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singRIGHT0000" x="0" y="2161" width="643" height="460" frameX="-524" frameY="-251" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singRIGHT0001" x="2240" y="0" width="614" height="462" frameX="-545" frameY="-249" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singRIGHT0002" x="0" y="1687" width="588" height="474" frameX="-569" frameY="-246" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singUP0000" x="544" y="0" width="559" height="604" frameX="-426" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singUP0001" x="0" y="0" width="544" height="608" frameX="-435" frameY="-100" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tacopibby singUP0002" x="1103" y="0" width="550" height="604" frameX="-432" frameY="-103" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

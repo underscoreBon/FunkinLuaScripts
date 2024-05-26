@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OSUMANIArate.png">
+<SubTexture name="OSUMANIArate ss0000" x="0" y="0" width="132" height="160" frameX="0" frameY="0" frameWidth="132" frameHeight="160" />
+<SubTexture name="OSUMANIArate d0000" x="132" y="0" width="138" height="160" frameX="0" frameY="0" frameWidth="138" frameHeight="160" />
+<SubTexture name="OSUMANIArate c0000" x="270" y="0" width="128" height="160" frameX="0" frameY="0" frameWidth="128" frameHeight="160" />
+<SubTexture name="OSUMANIArate b0000" x="0" y="160" width="137" height="160" frameX="0" frameY="0" frameWidth="137" frameHeight="160" />
+<SubTexture name="OSUMANIArate a0000" x="137" y="160" width="140" height="160" frameX="0" frameY="0" frameWidth="140" frameHeight="160" />
+<SubTexture name="OSUMANIArate s0000" x="398" y="0" width="131" height="160" frameX="0" frameY="0" frameWidth="131" frameHeight="160" />
+</TextureAtlas>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flowerv2.png"><SubTexture name="flowerv2 idle0000" x="3656" y="0" width="588" height="569" frameX="-350" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 idle0001" x="1914" y="2600" width="592" height="579" frameX="-348" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 idle0002" x="2506" y="2600" width="589" height="579" frameX="-345" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 idle0003" x="739" y="2600" width="587" height="602" frameX="-354" frameY="-64" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 idle0004" x="1326" y="2600" width="588" height="596" frameX="-346" frameY="-63" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 idle0005" x="762" y="662" width="571" height="628" frameX="-356" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 idle0006" x="1532" y="1318" width="564" height="627" frameX="-358" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 idle0007" x="2924" y="626" width="576" height="623" frameX="-347" frameY="-35" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 idle0008" x="2924" y="1249" width="572" height="621" frameX="-350" frameY="-34" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 idle0009" x="2213" y="1964" width="567" height="626" frameX="-352" frameY="-35" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 idle0010" x="2924" y="1870" width="564" height="620" frameX="-357" frameY="-35" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singLEFT0000" x="0" y="1318" width="748" height="646" frameX="-210" frameY="-22" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singLEFT0001" x="2168" y="637" width="740" height="636" frameX="-210" frameY="-23" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singLEFT0002" x="2168" y="0" width="756" height="637" frameX="-198" frameY="-23" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singLEFT0003" x="748" y="1318" width="784" height="640" frameX="-195" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singLEFT0004" x="0" y="1964" width="786" height="636" frameX="-192" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singRIGHT0000" x="0" y="2600" width="739" height="608" frameX="-327" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singRIGHT0001" x="786" y="1964" width="718" height="634" frameX="-326" frameY="-35" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singRIGHT0002" x="1504" y="1964" width="709" height="628" frameX="-336" frameY="-30" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singRIGHT0003" x="2168" y="1273" width="722" height="636" frameX="-323" frameY="-32" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singRIGHT0004" x="2924" y="0" width="732" height="626" frameX="-336" frameY="-32" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singUP0000" x="0" y="0" width="686" height="662" frameX="-289" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singUP0001" x="686" y="0" width="739" height="661" frameX="-281" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singUP0002" x="0" y="662" width="762" height="656" frameX="-260" frameY="-10" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singUP0003" x="1425" y="0" width="743" height="654" frameX="-273" frameY="-12" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singUP0004" x="1425" y="654" width="737" height="644" frameX="-278" frameY="-14" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singDOWN0000" x="0" y="3208" width="676" height="480" frameX="-260" frameY="-215" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singDOWN0001" x="676" y="3208" width="673" height="470" frameX="-261" frameY="-213" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singDOWN0002" x="1349" y="3208" width="675" height="468" frameX="-261" frameY="-215" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singDOWN0003" x="2024" y="3208" width="688" height="466" frameX="-248" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerv2 singDOWN0004" x="2712" y="3208" width="689" height="466" frameX="-251" frameY="-214" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

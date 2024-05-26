@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tacopibby singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tacopibby singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tacopibby singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tacopibby singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "tacopibby idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tacopibby/spritesheet",
+	"position": [
+		-420,
+		80
+	],
+	"healthicon": "tacopibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		172,
+		217,
+		169
+	],
+	"camera_position": [
+		80,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

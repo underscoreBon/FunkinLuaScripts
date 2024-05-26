@@ -1,0 +1,41 @@
+{
+	"storyName": "For a Prank...",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "taco",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Gone Wrong",
+			"blockypibby",
+			[
+				80,
+				0,
+				0
+			]
+		],
+		[
+			"Stabbable",
+			"blockypibby",
+			[
+				80,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"blocky",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "BFDI"
+}

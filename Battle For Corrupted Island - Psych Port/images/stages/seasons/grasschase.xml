@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="grasschase.png"><SubTexture name="grasschase chasegrass0000" x="0" y="0" width="1280" height="535" frameX="0" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grasschase chasegrass0001" x="0" y="535" width="1280" height="535" frameX="0" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grasschase chasegrass0002" x="1280" y="0" width="1280" height="535" frameX="0" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grasschase chasegrass0003" x="1280" y="535" width="1280" height="535" frameX="0" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grasschase chasegrass0004" x="0" y="1070" width="1280" height="535" frameX="0" frameY="-185" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

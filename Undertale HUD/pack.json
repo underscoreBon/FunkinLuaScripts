@@ -1,0 +1,7 @@
+{
+	"name": "UnderTale-styled HUD",
+	"description": "sanmds",
+	"restart":false,
+	"runsGlobally":true,
+	"color": [100, 0, 100]
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "flowerpibby idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "flowerpibby singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "flowerpibby singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "flowerpibby singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "flowerpibby singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flowerpibby/spritesheet",
+	"position": [
+		-420,
+		80
+	],
+	"healthicon": "flowerpibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		150,
+		206
+	],
+	"camera_position": [
+		80,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

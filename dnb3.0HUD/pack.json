@@ -1,0 +1,7 @@
+{
+	"name": "Dave and Bambi 3.0 HUD",
+	"description": ":skull: user interface mod",
+	"restart":false,
+	"runsGlobally":true,
+	"color": [100, 0, 100]
+}

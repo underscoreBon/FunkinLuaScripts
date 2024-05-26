@@ -1,0 +1,7 @@
+Dodge Event because I can!
+
+value 1 - Note Type
+1 - LEFT, 2 - DOWN, 3 - UP, 4 - RIGHT
+
+WARNING!!! 
+USING A NEW DODGE CANCELS THE PREVIOUS ONE!

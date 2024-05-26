@@ -1,0 +1,7 @@
+{
+	"name": "Friday Night Bloxxin' HUD",
+	"description": "The Definitive FNB Hud In Psych Engine",
+	"restart":false,
+	"runsGlobally":true,
+	"color": [100, 0, 100]
+}

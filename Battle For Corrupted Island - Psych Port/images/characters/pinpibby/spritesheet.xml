@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pinpibby.png"><SubTexture name="pinpibby idle0000" x="942" y="1920" width="481" height="566" frameX="-400" frameY="-130" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby idle0001" x="0" y="1920" width="474" height="584" frameX="-398" frameY="-114" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby idle0002" x="474" y="1920" width="468" height="584" frameX="-398" frameY="-112" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby idle0003" x="0" y="1330" width="464" height="590" frameX="-396" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby idle0004" x="1648" y="0" width="459" height="592" frameX="-397" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby idle0005" x="464" y="1330" width="458" height="590" frameX="-404" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby idle0006" x="922" y="1330" width="458" height="590" frameX="-405" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singLEFT0000" x="1648" y="592" width="388" height="592" frameX="-335" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singLEFT0001" x="2107" y="590" width="388" height="587" frameX="-343" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singLEFT0002" x="2107" y="1177" width="385" height="586" frameX="-350" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singRIGHT0000" x="1380" y="1330" width="475" height="590" frameX="-481" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singRIGHT0001" x="2107" y="0" width="473" height="590" frameX="-464" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singRIGHT0002" x="954" y="695" width="467" height="597" frameX="-462" frameY="-100" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singUP0000" x="782" y="0" width="399" height="660" frameX="-443" frameY="-35" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singUP0001" x="0" y="0" width="381" height="695" frameX="-473" frameY="-1" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singUP0002" x="381" y="0" width="401" height="695" frameX="-473" frameY="-6" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singDOWN0000" x="463" y="695" width="491" height="625" frameX="-431" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singDOWN0001" x="1181" y="0" width="467" height="652" frameX="-442" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pinpibby singDOWN0002" x="0" y="695" width="463" height="635" frameX="-443" frameY="-85" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

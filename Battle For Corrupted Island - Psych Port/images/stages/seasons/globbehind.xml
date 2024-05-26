@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="globbehind.png"><SubTexture name="globbehind globbehind0000" x="1280" y="0" width="1280" height="355" frameX="0" frameY="-102" frameWidth="1280" frameHeight="720" />
+<SubTexture name="globbehind globbehind0001" x="0" y="0" width="1280" height="360" frameX="0" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="globbehind globbehind0002" x="0" y="360" width="1280" height="359" frameX="0" frameY="-102" frameWidth="1280" frameHeight="720" />
+<SubTexture name="globbehind globbehind0003" x="0" y="719" width="1275" height="359" frameX="-5" frameY="-109" frameWidth="1280" frameHeight="720" />
+<SubTexture name="globbehind globbehind0004" x="1280" y="355" width="1280" height="354" frameX="0" frameY="-104" frameWidth="1280" frameHeight="720" />
+<SubTexture name="globbehind globbehind0005" x="0" y="1078" width="1269" height="344" frameX="0" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="globbehind globbehind0006" x="1280" y="709" width="1280" height="349" frameX="0" frameY="-105" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

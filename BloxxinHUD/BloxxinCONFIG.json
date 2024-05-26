@@ -1,0 +1,12 @@
+{
+	"botAccuracy": 80,
+	"ForeverStyle": false,
+	"verticalHealthBar": false,
+	"marvRating": true,
+	"ratingBopwhenAppear": true,
+	"resultsScreen": true,
+	"centerRatings": true,
+	"ShowMSoffset": true,
+	"showJudgementCount": true,
+	"animationsOnghostTap": false
+}

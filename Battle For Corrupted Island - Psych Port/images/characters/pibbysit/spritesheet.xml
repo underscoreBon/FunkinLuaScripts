@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibbysit.png"><SubTexture name="pibbysit idle0000" x="337" y="806" width="339" height="375" frameX="-678" frameY="-242" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit idle0001" x="0" y="806" width="337" height="379" frameX="-680" frameY="-236" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit idle0002" x="368" y="405" width="336" height="396" frameX="-681" frameY="-220" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit idle0003" x="368" y="405" width="336" height="396" frameX="-681" frameY="-220" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit idle0004" x="690" y="0" width="330" height="402" frameX="-687" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit idle0005" x="690" y="0" width="330" height="402" frameX="-687" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit idle0006" x="0" y="0" width="331" height="405" frameX="-686" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit idle0007" x="0" y="0" width="331" height="405" frameX="-686" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singRIGHT0000" x="331" y="0" width="359" height="403" frameX="-703" frameY="-207" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singRIGHT0001" x="0" y="405" width="368" height="401" frameX="-698" frameY="-209" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singRIGHT0002" x="0" y="405" width="368" height="401" frameX="-698" frameY="-209" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singDOWN0000" x="1387" y="701" width="360" height="326" frameX="-671" frameY="-269" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singDOWN0001" x="1387" y="365" width="356" height="336" frameX="-674" frameY="-259" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singDOWN0002" x="1387" y="365" width="356" height="336" frameX="-674" frameY="-259" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singLEFT0000" x="1387" y="0" width="409" height="365" frameX="-602" frameY="-258" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singLEFT0001" x="676" y="806" width="412" height="372" frameX="-601" frameY="-252" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singLEFT0002" x="676" y="806" width="412" height="372" frameX="-601" frameY="-252" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singUP0000" x="1020" y="394" width="362" height="386" frameX="-656" frameY="-216" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singUP0001" x="1020" y="0" width="367" height="394" frameX="-657" frameY="-211" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbysit singUP0002" x="1020" y="0" width="367" height="394" frameX="-657" frameY="-211" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

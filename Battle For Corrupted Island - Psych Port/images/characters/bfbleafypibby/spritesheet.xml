@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfbleafy.png"><SubTexture name="bfbleafy idle0000" x="0" y="1351" width="537" height="639" frameX="-372" frameY="-67" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0001" x="537" y="1351" width="538" height="639" frameX="-371" frameY="-67" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0002" x="2524" y="0" width="539" height="627" frameX="-371" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0003" x="0" y="1990" width="551" height="625" frameX="-366" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0004" x="3614" y="610" width="571" height="600" frameX="-365" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0005" x="3614" y="1809" width="577" height="598" frameX="-360" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0006" x="3614" y="1210" width="558" height="599" frameX="-368" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0007" x="1669" y="2615" width="568" height="618" frameX="-333" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0008" x="2237" y="2615" width="561" height="618" frameX="-336" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0009" x="559" y="2615" width="557" height="619" frameX="-340" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0010" x="2347" y="1990" width="557" height="623" frameX="-338" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0011" x="0" y="2615" width="559" height="621" frameX="-337" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0012" x="3063" y="0" width="551" height="622" frameX="-339" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0013" x="1116" y="2615" width="553" height="619" frameX="-343" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0014" x="1230" y="1990" width="559" height="624" frameX="-339" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0015" x="1789" y="1990" width="558" height="624" frameX="-354" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0016" x="1075" y="1351" width="565" height="633" frameX="-352" frameY="-73" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy idle0017" x="1640" y="1351" width="578" height="633" frameX="-341" frameY="-73" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singRIGHT0000" x="698" y="3236" width="656" height="564" frameX="-403" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singRIGHT0001" x="551" y="1990" width="679" height="625" frameX="-381" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singRIGHT0002" x="0" y="3236" width="698" height="608" frameX="-344" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singRIGHT0003" x="2798" y="2615" width="640" height="616" frameX="-404" frameY="-52" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singRIGHT0004" x="3614" y="0" width="653" height="610" frameX="-394" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singLEFT0000" x="3063" y="622" width="511" height="620" frameX="-286" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singLEFT0001" x="1941" y="657" width="558" height="655" frameX="-321" frameY="-44" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singLEFT0002" x="1396" y="662" width="532" height="650" frameX="-332" frameY="-44" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singLEFT0003" x="1396" y="0" width="545" height="662" frameX="-305" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singLEFT0004" x="476" y="677" width="557" height="667" frameX="-304" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singDOWN0000" x="2012" y="3236" width="701" height="430" frameX="-260" frameY="-279" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singDOWN0001" x="2713" y="3236" width="671" height="417" frameX="-298" frameY="-287" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singDOWN0002" x="3614" y="2407" width="651" height="416" frameX="-311" frameY="-290" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singDOWN0003" x="3614" y="2407" width="651" height="416" frameX="-311" frameY="-290" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singDOWN0004" x="1354" y="3236" width="658" height="441" frameX="-366" frameY="-258" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singUP0000" x="1941" y="0" width="583" height="657" frameX="-362" frameY="-31" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singUP0001" x="457" y="0" width="500" height="675" frameX="-407" frameY="-3" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singUP0002" x="0" y="677" width="476" height="674" frameX="-408" frameY="-3" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singUP0003" x="0" y="0" width="457" height="677" frameX="-424" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfbleafy singUP0004" x="957" y="0" width="439" height="675" frameX="-427" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

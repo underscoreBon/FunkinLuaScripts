@@ -1,0 +1,11 @@
+{
+	"idle_anim": "plantbuddies plantbuddies",
+	"image": "plantbuddies",
+	"position": [
+		126,
+		0
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": ""
+}

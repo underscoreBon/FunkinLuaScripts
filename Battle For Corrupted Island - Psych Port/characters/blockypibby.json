@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "blockypibby idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "blockypibby singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "blockypibby singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "blockypibby singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "blockypibby singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blockypibby/spritesheet",
+	"position": [
+		-420,
+		80
+	],
+	"healthicon": "blockypibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		209,
+		76,
+		96
+	],
+	"camera_position": [
+		80,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="needlejump.png"><SubTexture name="needlejump idle0000" x="3427" y="1391" width="1144" height="681" frameX="-83" frameY="-39" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump idle0001" x="0" y="2859" width="1145" height="681" frameX="-82" frameY="-39" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump idle0002" x="3427" y="0" width="1144" height="696" frameX="-83" frameY="-24" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump idle0003" x="3427" y="696" width="1144" height="695" frameX="-83" frameY="-25" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump idle0004" x="0" y="1440" width="1144" height="713" frameX="-83" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump idle0005" x="2284" y="0" width="1143" height="713" frameX="-84" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump idle0006" x="0" y="2153" width="1144" height="706" frameX="-83" frameY="-14" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump idle0007" x="1144" y="2153" width="1144" height="705" frameX="-83" frameY="-15" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singLEFT0000" x="0" y="3540" width="1157" height="671" frameX="-75" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singLEFT0001" x="1145" y="2859" width="1143" height="672" frameX="-82" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singLEFT0002" x="2288" y="2859" width="1145" height="672" frameX="-80" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singRIGHT0000" x="2284" y="1389" width="1139" height="674" frameX="-85" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singRIGHT0001" x="3427" y="2072" width="1142" height="677" frameX="-83" frameY="-43" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singRIGHT0002" x="2284" y="713" width="1142" height="676" frameX="-83" frameY="-44" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singDOWN0000" x="1157" y="3540" width="1143" height="589" frameX="-82" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singDOWN0001" x="2300" y="3540" width="1143" height="589" frameX="-82" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singDOWN0002" x="1142" y="720" width="1142" height="588" frameX="-83" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singUP0000" x="0" y="0" width="1141" height="720" frameX="-85" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singUP0001" x="1141" y="0" width="1143" height="720" frameX="-82" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="needlejump singUP0002" x="0" y="720" width="1142" height="720" frameX="-83" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

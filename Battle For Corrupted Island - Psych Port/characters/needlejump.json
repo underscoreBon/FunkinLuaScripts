@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "needlejump singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "needlejump singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "needlejump singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "needlejump idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "needlejump singDOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/needlejump/spritesheet",
+	"position": [
+		-900,
+		-10
+	],
+	"healthicon": "needlepibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		140,
+		160
+	],
+	"camera_position": [
+		-270,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

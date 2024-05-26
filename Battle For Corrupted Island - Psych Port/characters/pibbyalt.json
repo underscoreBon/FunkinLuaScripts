@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pibbyalt idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbyalt/spritesheet",
+	"position": [
+		-600,
+		50
+	],
+	"healthicon": "pibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		233,
+		255
+	],
+	"camera_position": [
+		-10,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,7 @@
+{
+	"name": "BonbonHUD",
+	"description": "The User Interface MOD by n_bonnie2, the meaning of oversaturated\n\n> Configuration is in mods/bonbonhud/bonbonCONFIG.json\n\nMake sure its \non [TOP]! -->",
+	"restart":false,
+	"runsGlobally":true,
+	"color": [100, 0, 100]
+}

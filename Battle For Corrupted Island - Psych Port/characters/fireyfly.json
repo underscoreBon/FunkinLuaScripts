@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fireyfly singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fireyfly singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fireyfly singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fireyfly singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fireyfly idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fireyfly/spritesheet",
+	"position": [
+		-900,
+		-290
+	],
+	"healthicon": "fireypibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		165,
+		31
+	],
+	"camera_position": [
+		20,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
