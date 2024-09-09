@@ -9,15 +9,34 @@ local msArray = {}
 local npsPeak = 0
 local nps = 0
 local reduce = true
+local compatMode = false
+local backwardsoptionsMode = false
 
 function onCreatePost()
     setRatingFC('N/A')
     luaDebugMode = true
-   
-    configData = json.parse(getTextFromFile('bonbonOPTIONS.json'))
 
+    ratingXoff = 0 -- rating offsets or smth
+    charAnchor = 'gf'
+    if playAsOpponentEnabled then
+      ratingXoff = 550
+      charAnchor = 'dad'
+    else
+      ratingXoff = 0
+      charAnchor = 'boyfriend'
+    end
+
+    for i = 0, 8 do -- just in case
+      makeLuaText("stats-"..i, "", 500, (playAsOpponentEnabled and 765 or 15), 250 + (i * 25))
+      setTextSize("stats-"..i, 18)
+      setTextAlignment("stats-"..i, (playAsOpponentEnabled and "right" or "left"))
+      setObjectCamera("stats-"..i, "hud")
+      addLuaText("stats-"..i)
+    end
+
+   
     local oldLuaVersions = {'0.3', '0.4', '0.5', '0.6'}
-    compatMode = false
+    local preModMenuRevampVers = {'0.3', '0.4', '0.5', '0.6', '0.7'}
       for i = 1, #oldLuaVersions do 
         if stringStartsWith(version, oldLuaVersions[i]) then -- backwards compbat for lower vers
           compatMode = true
@@ -25,8 +44,60 @@ function onCreatePost()
           break
         end
      end
+     for i = 1, #preModMenuRevampVers do 
+      if stringStartsWith(version, preModMenuRevampVers[i]) then -- backwards compbat for lower vers
+        if not (version == '0.7' or version == '0.7.1' or version == '0.7.1h') then
+          backwardsoptionsMode = true
+          break
+        end
+      end
+   end
 
-    if not compatMode and configData.forceCompatMode then
+    if backwardsoptionsMode then
+      colorData = json.parse(getTextFromFile('bonbonCOLORS.json'))
+      showBasicStats = getModSetting('showBasicStats', 'bonbonhud')
+      showAdvancedStats = getModSetting('showAdvancedStats', 'bonbonhud')
+      showNoteMsOffset = getModSetting('showNoteMsOffset', 'bonbonhud')
+      gameOverResults = getModSetting('gameOverResults', 'bonbonhud')
+      underlayAlpha = getModSetting('underlayAlpha', 'bonbonhud')
+      ratingCustomColor = getModSetting('ratingCustomColor', 'bonbonhud')
+      scoreTextCustomColor = getModSetting('scoreTextCustomColor', 'bonbonhud')
+      forceCompatMode = getModSetting('forceCompatMode', 'bonbonhud')
+      vanillaMode = getModSetting('vanillaMode', 'bonbonhud')
+      timeBarScaleX = getModSetting('timeBarScaleX', 'bonbonhud')
+      healthBarScaleX = getModSetting('healthBarScaleX', 'bonbonhud')
+      saveFile('bonbonhud/bonbonOPTIONS.json', [[{
+  "showBasicStats": ]]..tostring(getModSetting('showBasicStats', 'bonbonhud'))..[[,
+  "showAdvancedStats": ]]..tostring(getModSetting('showAdvancedStats', 'bonbonhud'))..[[,
+  "showNoteMsOffset": ]]..tostring(getModSetting('showNoteMsOffset', 'bonbonhud'))..[[,
+  "gameOverResults": ]]..tostring(getModSetting('gameOverResults', 'bonbonhud'))..[[,
+  "underlayAlpha": ]]..tostring(getModSetting('underlayAlpha', 'bonbonhud'))..[[,
+  "ratingCustomColor": ]]..tostring(getModSetting('ratingCustomColor', 'bonbonhud'))..[[,
+  "scoreTextCustomColor": ]]..tostring(getModSetting('scoreTextCustomColor', 'bonbonhud'))..[[,
+  "forceCompatMode": ]]..tostring(getModSetting('forceCompatMode', 'bonbonhud'))..[[,
+  "vanillaMode": ]]..tostring(getModSetting('vanillaMode', 'bonbonhud'))..[[,
+  "timeBarScaleX": ]]..tostring(getModSetting('timeBarScaleX', 'bonbonhud'))..[[,
+  "healthBarScaleX": ]]..tostring(getModSetting('healthBarScaleX', 'bonbonhud'))..[[
+  
+}]])
+    else 
+        colorData = json.parse(getTextFromFile('bonbonCOLORS.json'))
+        configData = json.parse(getTextFromFile('bonbonOPTIONS.json'))
+        showBasicStats = configData.showBasicStats
+        showAdvancedStats = configData.showAdvancedStats
+        showNoteMsOffset = configData.showNoteMsOffset
+        gameOverResults = configData.gameOverResults
+        underlayAlpha = configData.underlayAlpha
+        ratingCustomColor = configData.ratingCustomColor
+        scoreTextCustomColor = configData.scoreTextCustomColor
+        forceCompatMode = configData.forceCompatMode
+        vanillaMode = configData.vanillaMode
+        timeBarScaleX = configData.timeBarScaleX
+        healthBarScaleX = configData.healthBarScaleX
+        configData = nil
+      end
+
+    if not compatMode and forceCompatMode then
       compatMode = true
       debugPrint('[BonbonHUD] Compatibility Mode Force-Enabled')
     end
@@ -44,30 +115,12 @@ function onCreatePost()
       isPixel = getPropertyFromClass('states.PlayState', 'isPixelStage')
     end
 
-      for i = 0, 8 do -- just in case
-        makeLuaText("stats-"..i, "", 500, (playAsOpponentEnabled and 765 or 15), 250 + (i * 25))
-        setTextSize("stats-"..i, 18)
-        setTextAlignment("stats-"..i, (playAsOpponentEnabled and "right" or "left"))
-        setObjectCamera("stats-"..i, "hud")
-        addLuaText("stats-"..i)
-      end
-
     for i = 0, getProperty('strumLineNotes.length')-1 do -- fuck it.
       makeLuaSprite('noteunderlay-'..i, nil, 0, 0)
       makeGraphic('noteunderlay-'..i, 112, screenHeight, '000000')
       setObjectCamera('noteunderlay-'..i, 'hud')
       addLuaSprite('noteunderlay-'..i, false)
-      setProperty('noteunderlay-'..i..'.alpha', configData.underlayAlpha)
-    end
-
-    ratingXoff = 0 -- rating offsets or smth
-    charAnchor = 'gf'
-    if playAsOpponentEnabled then
-      ratingXoff = 550
-      charAnchor = 'dad'
-    else
-      ratingXoff = 0
-      charAnchor = 'boyfriend'
+      setProperty('noteunderlay-'..i..'.alpha', underlayAlpha)
     end
 
     makeLuaText('ms', '', 120, getCharacterX(charAnchor) - 60 + ratingXoff, getCharacterY(charAnchor) + 380)
@@ -87,7 +140,7 @@ function onUpdate(elapsed)
     isPixel = getPropertyFromClass('states.PlayState', 'isPixelStage')
   end
 
-  if nps > 0 and reduce == true then     --NPS logic made by beihu(北狐丶逐梦) https://b23.tv/gxqO0GH, thanks fellow asian.
+  if nps > 0 and reduce == true then     --NPS logic made by beihu(北狐丶逐梦) https://b23.tv/gxqO0GH
     reduce = false
     runTimer('reduce nps', 1/nps , 1)	
   end
@@ -100,14 +153,14 @@ function onUpdatePost()
     -- time stuff
     updateTextPos('ms', 1)
 
-    setTimeBarColors(configData.timeBarColors[1], configData.timeBarColors[2])
+    setTimeBarColors(colorData.timeBarColors[1], colorData.timeBarColors[2])
 
     if compatMode then
-      setProperty('timeBarBG.scale.x', configData.timeBarScaleX) -- stupid BG shit
-      setProperty('healthBarBG.scale.x', configData.healthBarScaleX)
+      setProperty('timeBarBG.scale.x', timeBarScaleX) -- stupid BG shit
+      setProperty('healthBarBG.scale.x', healthBarScaleX)
     else
-      setProperty('timeBar.scale.x', configData.timeBarScaleX)
-      setProperty('healthBar.scale.x', configData.healthBarScaleX)
+      setProperty('timeBar.scale.x', timeBarScaleX)
+      setProperty('healthBar.scale.x', healthBarScaleX)
     end
 
     if songStarted then
@@ -159,7 +212,7 @@ function onUpdatePost()
 
     -- stats
     realHEALTH = math.floor((getHealth()/2)*100)
-    if configData.showBasicStats then
+    if showBasicStats then
       setTextString('stats-0', 'Hits: '..hits..' / '..hits + trueMisses)
       setTextString('stats-1', 'Best Combo: '..highestCombo)
       if compatMode then 
@@ -175,15 +228,15 @@ function onUpdatePost()
       end
       setTextString('stats-6', 'Health: '..realHEALTH..'%')
     end
-    if configData.showAdvancedStats then
+    if showAdvancedStats then
       setTextString('stats-7', ' Mean: '..MSaverage..' ms')
       setTextString('stats-8', ' NPS: '..nps..' ('..npsPeak..')')
     end
 
-    setTextColor('stats-2', configData.sickColor)
-    setTextColor('stats-3', configData.goodColor)
-    setTextColor('stats-4', configData.badColor)
-    setTextColor('stats-5', configData.shitColor)
+    setTextColor('stats-2', colorData.sickColor)
+    setTextColor('stats-3', colorData.goodColor)
+    setTextColor('stats-4', colorData.badColor)
+    setTextColor('stats-5', colorData.shitColor)
 
     if realHEALTH < 20 then
       setTextColor('stats-6', 'FF0000')
@@ -205,24 +258,24 @@ function onUpdatePost()
     if isPixel then
       for i = 1, #allTextStuffs do
         if luaTextExists(allTextStuffs[i]) then
-        setTextFont(allTextStuffs[i], configData.pixelFont)
+        setTextFont(allTextStuffs[i], colorData.pixelFont)
         end
       end
     else
       for i = 1, #allTextStuffs do
         if luaTextExists(allTextStuffs[i]) then
-        setTextFont(allTextStuffs[i], configData.font)
+        setTextFont(allTextStuffs[i], colorData.font)
         end
       end
     end
 
     for i = 0, getProperty('strumLineNotes.length')-1 do -- underlay sync
       setProperty('noteunderlay-'..i..'.x', getPropertyFromGroup('strumLineNotes', i, 'x') - 2)
-      setProperty('noteunderlay-'..i..'.alpha', configData.underlayAlpha * getPropertyFromGroup('strumLineNotes', i, 'alpha'))
+      setProperty('noteunderlay-'..i..'.alpha', underlayAlpha * getPropertyFromGroup('strumLineNotes', i, 'alpha'))
     end
 
     -- vanilla aspects
-    if configData.vanillaMode then
+    if vanillaMode then
       setHealthBarColors('FF0000', '66FF33')
       setProperty('scoreTxt.scale.x', 1)
       setProperty('scoreTxt.scale.y', 1)
@@ -259,13 +312,13 @@ function goodNoteHit(id, direction, noteType, isSustainNote) -- ratings
 
       noteRate = getPropertyFromGroup('notes', id, 'rating')
         if noteRate == 'sick' then
-          showRate(math.floor(msactual), configData.sickColor, 'sick', 2)
+          showRate(math.floor(msactual), colorData.sickColor, 'sick', 2)
         elseif noteRate == 'good' then
-          showRate(math.floor(msactual), configData.goodColor , 'good', 3)
+          showRate(math.floor(msactual), colorData.goodColor , 'good', 3)
         elseif noteRate == 'bad' then
-          showRate(math.floor(msactual), configData.badColor, 'bad', 4)
+          showRate(math.floor(msactual), colorData.badColor, 'bad', 4)
         else
-          showRate(math.floor(msactual), configData.shitColor, 'shit', 5)
+          showRate(math.floor(msactual), colorData.shitColor, 'shit', 5)
         end
 
       if #msArray == 0 then
@@ -323,7 +376,7 @@ function onSongStart()
 end
 
 function onBeatHit()
-  if configData.vanillaMode then
+  if vanillaMode then
     setGraphicSize('iconP1', getProperty('iconP1.width') + 30)
     setGraphicSize('iconP2', getProperty('iconP2.width') + 30)
   end
@@ -336,12 +389,12 @@ function showRate(ms,color,rate,bop) -- code 100 %  by me lmao
       ratePrefixs = {'pixelUI/','-pixel'}
     end
 
-    if configData.scoreTextCustomColor then
+    if scoreTextCustomColor then
     setTextColor('scoreTxt', color)
     doTweenColor('hahaSCORE', 'scoreTxt', 0xFFFFFFF, 1, 'circInOut')
     end
 
-    if configData.showNoteMsOffset then
+    if showNoteMsOffset then
       ratingContext = ''
       if not (rate == 'sick') then
         if tonumber(ms) >= 0 then
@@ -363,7 +416,7 @@ function showRate(ms,color,rate,bop) -- code 100 %  by me lmao
     setObjectCamera('fakeRating'..amountOfCombos, 'game')
     addLuaSprite('fakeRating'..amountOfCombos, true)
 
-    if configData.ratingCustomColor then
+    if ratingCustomColor then
     setProperty('fakeRating'..amountOfCombos..'.color', getColorFromHex(color))
     end
     
@@ -371,7 +424,7 @@ function showRate(ms,color,rate,bop) -- code 100 %  by me lmao
     setObjectCamera('fakeCombo'..amountOfCombos, 'game')
     addLuaSprite('fakeCombo'..amountOfCombos, true)
 
-    if configData.ratingCustomColor then
+    if ratingCustomColor then
     setProperty('fakeCombo'..amountOfCombos..'.color', getColorFromHex(color))
     end
 
@@ -448,7 +501,7 @@ end
 
 
 function onGameOverStart()
-  if configData.gameOverResults then
+  if gameOverResults then
     makeLuaText("side1", 'Game Over - '..songName..' - ('..playbackRate..'x)\nScore: '..score..' | Misses: '..misses..' | Accuracy: '..realRating..'%', 1200, 30, 140)
     setTextSize("side1", 20)
     setTextAlignment("side1", "center")
@@ -460,7 +513,7 @@ function onGameOverStart()
 end
 
 function onGameOverConfirm(isNotGoingToMenu)
-  if configData.gameOverResults then
+  if gameOverResults then
     doTweenAlpha('skillissue', 'side1', 1, 0, 'circInOut')
   end
 end
@@ -479,8 +532,14 @@ function enableTextMove(var)
 end
 
 function updateTextPos(var, scroll)
-	setProperty(var..'.x', (textX[var]-getProperty('camGame.scroll.x'))*scroll )
-	setProperty(var..'.y', (textY[var]-getProperty('camGame.scroll.y'))*scroll )
+  if luaSpriteExists(var) then
+	  setProperty(var..'.x', (textX[var]-getProperty('camGame.scroll.x'))*scroll )
+	  setProperty(var..'.y', (textY[var]-getProperty('camGame.scroll.y'))*scroll )
+  end
+  if luaTextExists(var) then
+	  setProperty(var..'.x', (textX[var]-getProperty('camGame.scroll.x'))*scroll )
+	  setProperty(var..'.y', (textY[var]-getProperty('camGame.scroll.y'))*scroll )
+  end
 end
 
 
