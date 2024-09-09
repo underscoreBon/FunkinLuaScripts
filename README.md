@@ -36,4 +36,5 @@ so uh... hi? bye? see ya?
 - Triple Trouble Ring in Psych Engine Lua
   - Used in Various Triple Trouble Mods + Unofficial D-Sides Sonic.exe Mod!
 - Personal HUD (bonbonhud)
+  - The "magnum opus" of all of my GUI's, Compatible with most versions of psych engine (with SOME features disabled)
 - Dave and Bambi 3.0 HUD (status unknown)
