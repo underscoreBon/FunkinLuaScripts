@@ -50,7 +50,6 @@ function onCreatePost()
         addCharacterToList(characters[i][2], 'boyfriend') -- laggy as fuck
       end
     end
-    refreshCharacter()
 end
 
 function onStartCountdown()
