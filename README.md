@@ -34,7 +34,7 @@ so uh... hi? bye? see ya?
   - The mod's lost media by now.
 - [Scammed (Charted)](https://gamebanana.com/mods/413664)
 - Triple Trouble Remaster Charted (UNFINISHED)
-  - Showcased on a now-deleted Youtube Video (Odysee Archive: https://odysee.com/@n_bonnie2:f/little-chart-teaser-because-i-was-bored:5)
+  - Showcased on a now-deleted Youtube Video
 - [Triple Trouble Ring in Psych Engine Lua](https://gamebanana.com/mods/402437)
   - Used in Various Triple Trouble Mods + Unofficial D-Sides Sonic.exe Mod!
 - Personal HUD (bonbonhud)
