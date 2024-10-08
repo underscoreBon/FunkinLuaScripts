@@ -15,12 +15,11 @@ so uh... hi? bye? see ya?
 - [Funkin Character Select](https://gamebanana.com/mods/431772)
 - Minecraft HUD
   - Used in Crafter's Demise, Bastard One Shot Mod (DanTDM Vs Trayarus), etc.
-  - This was ported to Roblox in the game Project: Afternight, just go in the settings and set default HUD to "Crafter's Demise"!
-  ![image](https://github.com/user-attachments/assets/4ba41485-6f79-4c9a-afa0-61f52ad3d2da)
-
+  - This was ported to Roblox in the game [Project: Afternight](https://www.roblox.com/games/13042495892/UPDATE-1-Project-Afternight), just go in the settings and set default HUD to "Crafter's Demise"!
+  ![Project:Afternight Setting Located in Extras & Optimizations > Advanced > Replace Default HUD](https://github.com/user-attachments/assets/4ba41485-6f79-4c9a-afa0-61f52ad3d2da)
 - [Boyfriend Fights Mod (No HP Drain Version)](https://gamebanana.com/mods/390960)
 - [Battle for Corrupted Island (Psych Port)](https://gamebanana.com/mods/416384)
-  - Redistributed in Various Sites, but are outdated (unable to take down due to me not owning the entire mod L_L)
+  - Redistributed in Various Sites, but are outdated (unable to take down due to me not owning the mod L_L)
 - Friday Night Bloxxin' HUD (Possibally Broken)
 - Crossing My Road Ports
   - Includes Legacy, V3 , and Respawned (Perfected)
