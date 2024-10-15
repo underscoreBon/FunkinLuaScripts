@@ -11,6 +11,11 @@ I am no longer a big part of the FNF community die to lack of interest.
 
 so uh... hi? bye? see ya?
 
+
+
+
+**SCRIPTS MAY NOT WORK WITH PSYCH 1.0**
+
 ## Contents
 - [Funkin Character Select](https://gamebanana.com/mods/431772)
 - Minecraft HUD
