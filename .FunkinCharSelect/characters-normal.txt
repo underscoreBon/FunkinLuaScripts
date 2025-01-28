@@ -1,7 +1,7 @@
-Boyfriend::bf
-Boyfriend (Reanimated)::zerobf-charselect
-Boyfriend (Christmas)::bf-christmas
-Boyfriend (Pixel)::bf-pixel-player
-Boyfriend & Girlfriend::bf-holding-gf
-Pico::pico-player
-Tankman::tankman-player
+Default Character::[default]::[default]
+Boyfriend::bf::[default]
+Boyfriend (Christmas)::bf-christmas::[default]
+Boyfriend (Pixel)::bf-pixel-playable::[default]
+Boyfriend & Girlfriend::bf-holding-gf::[default]
+Pico::pico-playable::[default]
+Tankman::tankman-playable::[default]

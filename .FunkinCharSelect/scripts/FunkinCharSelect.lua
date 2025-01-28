@@ -1,17 +1,20 @@
 allowCD = false
-selectedChar = 'bf'
-defaultChar = 'bf'
+selectedBoyfriend = 'bf'
+defaultBoyfriend = 'bf'
+selectedgf = 'bf'
+defaultgf = 'gf'
 inScreen = false
 charData = {}
 characters = {}
 curSelected = 1
+luaDebugMode = true
+
+defaultSyntax = "[default]"
 
 -- DISABLE THIS IF YOURE HAVING LAG ISSUES!
-precacheCharacters = false 
-
+precacheCharacters = true 
 function onCreatePost()
     local oldLuaVersions = {'0.3', '0.4', '0.5', '0.6'}
-    luaDebugMode = true
     compatMode = false
     for i = 1, #oldLuaVersions do 
       if stringStartsWith(version, oldLuaVersions[i]) then -- detect lower vers
@@ -31,9 +34,7 @@ function onCreatePost()
     else
       charList = string.split(getTextFromFile('characters-normal.txt'), '\n')
     end
-    characters = {
-      {'Default Character', boyfriendName}
-    }
+    characters = {}
     for i = 1, #charList do -- somewhat fixes the line break problem
       if i == #charList then 
         table.insert(characters, string.split(charList[i], '::'))
@@ -42,18 +43,29 @@ function onCreatePost()
       end
     end
 
-    defaultChar = boyfriendName
-    characters[1][2] = boyfriendName
+    defaultBoyfriend = boyfriendName
+    defaultgf = gfName
+
+    -- replaces "[default]" tag with default characters
+    for i = 1, #characters do 
+      if characters[i][2] == defaultSyntax then 
+        characters[i][2] = boyfriendName
+      end
+      if characters[i][3] == defaultSyntax then 
+        characters[i][3] = gfName
+      end
+    end
 
     if precacheCharacters then
       for i = 1, #characters do 
         addCharacterToList(characters[i][2], 'boyfriend') -- laggy as fuck
+        addCharacterToList(characters[i][3], 'girlfriend')
       end
     end
 end
 
 function onStartCountdown()
-  if not allowCD and not isStoryMode then
+  if (allowCD == false) and (isStoryMode == false) then
     setProperty('inCutscene', true)
     inScreen = true
 
@@ -133,18 +145,11 @@ function onUpdate()
 
         if keyJustPressed('accept') then
             inScreen = false
-            selectedChar = characters[curSelected][2]
-            local eventsLength = getProperty('eventNotes.length')
-            for i = 0,eventsLength-1 do 
-              if getPropertyFromGroup('eventNotes', i, 'event') == 'Change Character' then -- this is how i do this
-                val1 = getPropertyFromGroup('eventNotes', i, 'value1')
-                if val1 == '2' or val1 == 'boyfriend' or val1 == 'bf' then
-                  if getPropertyFromGroup('eventNotes', i, 'value2') == defaultChar then
-                    setPropertyFromGroup('eventNotes', i, 'value2', selectedChar)
-                  end
-                end
-              end
-            end
+
+            selectedBoyfriend = characters[curSelected][2]
+            selectedgf = characters[curSelected][3]
+
+            replaceEventSwap() -- replaces character switch event, see below functions
             playSound('confirmMenu', 0.7)
             soundFadeOut('', 1, 0)
             tweenScreen()
@@ -189,6 +194,7 @@ end
 function refreshCharacter() 
     charData = json.parse(getTextFromFile('characters/'..characters[curSelected][2]..'.json', false)) -- MANUALLY read the file
     triggerEvent('Change Character', 'bf', characters[curSelected][2])
+    triggerEvent('Change Character', 'gf', characters[curSelected][3])
     hpIco = charData.healthicon
 
     setTextString('charName', characters[curSelected][1])
@@ -202,14 +208,57 @@ function refreshCharacter()
     addLuaSprite('ico1', true)
     playAnim('ico1', 'neutral', true)
 
-    makeAnimatedLuaSprite('char', getProperty('boyfriend.imageFile'), 200, 580)
-    addAnimationByPrefix('char', 'idle', getProperty('boyfriend.animation.frameName'), 24)
-    scaleObject('char', charData.scale * 0.8, charData.scale * 0.8)
+    if checkFileExists("images/"..charData.image.."/Animation.json") then 
+      makeFlxAnimateSprite("char", 200, 580)
+      loadAnimateAtlas("char", charData.image)
+      addAnimationBySymbol("char", "idle", getProperty('boyfriend.animation'))
+      scaleObject('char', charData.scale * 0.8, charData.scale * 0.8)
+    else
+        -- multiple spritesheet support introduced in 1.0... i hope it does not break in earlier versions
+        local forgor = true
+        local imagearray = string.split(charData.image, ',')
+        for i = 1, #imagearray do 
+          makeAnimatedLuaSprite('char', imagearray[i], 200, 580)
+          addAnimationByPrefix('char', 'idle', getProperty('boyfriend.animation.frameName'))
+          scaleObject('char', charData.scale * 0.8, charData.scale * 0.8)
+          if not (getProperty("char.pixels") == nil) then  
+            forgor = false
+            break
+          end
+        end
+        if forgor then 
+          makeLuaSprite("char", "no_character_found")
+        end
+    end
     setObjectCamera('char', 'other')
     addLuaSprite('char', true)
     screenCenter('char')
     setProperty('char.antialiasing', not charData.no_antialiasing)
     playAnim('char', 'idle', true)
+    
+end
+
+function replaceEventSwap()
+  local eventsLength = getProperty('eventNotes.length')
+  for i = 0,eventsLength-1 do 
+    if getPropertyFromGroup('eventNotes', i, 'event') == 'Change Character' then -- this is how i do this
+      val1 = getPropertyFromGroup('eventNotes', i, 'value1')
+
+      -- check if default BF
+      if val1 == '2' or val1 == 'boyfriend' or val1 == 'bf' then
+        if getPropertyFromGroup('eventNotes', i, 'value2') == defaultBoyfriend then
+          setPropertyFromGroup('eventNotes', i, 'value2', selectedBoyfriend)
+        end
+      end
+      --check if default GF
+      if val1 == '1' or val1 == 'girlfriend' or val1 == 'gf' then
+        if getPropertyFromGroup('eventNotes', i, 'value2') == defaultgf then
+          setPropertyFromGroup('eventNotes', i, 'value2', selectedgf)
+        end
+      end
+
+    end
+  end
 end
 
 function onTimerCompleted(tag, loops, loopsLeft)
