@@ -48,3 +48,10 @@ so uh... hi? bye? see ya?
   - The "magnum opus" of all of my GUI's, Compatible with most versions of psych engine (with SOME features disabled)
 - Girlfriend strumline
 - Dave and Bambi 3.0 HUD (status unknown)
+
+### Recent Contents:
+*these were made AFTER my FNF retirement and unlikely to be maintained*
+- Block Tales HUD 
+  - A HUD made in less than 24 hours, assets ripped directly from the roblox gamecache
+  - ATk and DEF is based on HP gain and HP Loss Modifiers in Psych Engine 
+  - [Unlisted Demo Video](https://www.youtube.com/watch?v=7M45CSya1DI)
