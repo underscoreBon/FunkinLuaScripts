@@ -27,12 +27,13 @@ so uh... hi? bye? see ya?
 - [Boyfriend Fights Mod (No HP Drain Version)](https://gamebanana.com/mods/390960)
 - [Battle for Corrupted Island (Psych Port)](https://gamebanana.com/mods/416384)
   - Redistributed in Various Sites, but are outdated (unable to take down due to me not owning the mod L_L)
-- Friday Night Bloxxin' HUD (Possibally Broken)
+- Friday Night Bloxxin' HUD
 - Crossing My Road Ports
   - Includes Legacy, V3 , and Respawned (Perfected)
   - Assets come from https://gamebanana.com/mods/312631 and https://www.youtube.com/watch?v=D3oKmQj5lwc&t=0s (?)
+  - Charts need to be converted to 1.0+
 - Fresh (Boyfriend Mix) - n_bonnie2's Chart
-- Funky Friday HUD (Possibally Broken)
+- (Pre-Rewrite) Funky Friday HUD
 - Lost to Darkness (Charted) - (Broken)
   - Mainly due to hscript changes that were used for tails and knuckles
   - also used in https://scratch.mit.edu/projects/771929562/ as the chart.
